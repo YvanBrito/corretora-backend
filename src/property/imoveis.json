@@ -1,0 +1,296 @@
+[
+  {
+    "id": 0,
+    "createdAt": "2022-05-09T20:00:00",
+    "type": "apartment",
+    "isRent": true,
+    "address": {
+      "streetName": "Rua dos Amigos",
+      "number": "43",
+      "district": "Nazaré",
+      "city": "Belém",
+      "state": "Pará",
+      "stateInitials": "PA"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tellus massa, tincidunt ut mattis eget, sollicitudin eget ipsum. In ut nibh hendrerit orci ultrices mattis eget a nisl. Etiam vitae dui lobortis, congue velit convallis, pulvinar metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tellus justo, ornare vitae placerat et, lacinia feugiat massa. Ut vel sem quam. Quisque felis urna, aliquam nec vestibulum sed, dictum vel nunc. Aliquam vel tristique nibh. Sed porta erat vitae urna malesuada dapibus. Maecenas lorem nibh, vulputate a ex at, congue pellentesque nisi. Nunc pellentesque dapibus turpis sit amet tincidunt. Integer vel ligula id mi ornare lobortis. Aliquam nec tincidunt turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam vulputate tortor vitae quam ullamcorper consequat. Pellentesque venenatis varius mi non iaculis.",
+    "area": 34,
+    "lng": -48.4086717,
+    "lat": -1.3569995,
+    "bedroomsQty": 3,
+    "bathroomQty": 1,
+    "rentPrice": 1234,
+    "buyPrice": 0,
+    "iptu": 300,
+    "condominiumPrice": 312,
+    "serviceRate": 32,
+    "isPetFriendly": true,
+    "furnished": false,
+    "floor": 3,
+    "carSpot": 1,
+    "seller": {
+      "name": "Yvan Brito",
+      "phone": 5591983213832,
+      "email": "teste@teste.com"
+    },
+    "images": [
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp"
+    ]
+  },
+  {
+    "id": 1,
+    "createdAt": "2022-05-09T20:00:00",
+    "type": "house",
+    "isRent": true,
+    "address": {
+      "streetName": "Travessa Alegoria",
+      "number": "53",
+      "district": "Nazaré",
+      "city": "Belém",
+      "state": "Pará",
+      "stateInitials": "PA"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tellus massa, tincidunt ut mattis eget, sollicitudin eget ipsum. In ut nibh hendrerit orci ultrices mattis eget a nisl. Etiam vitae dui lobortis, congue velit convallis, pulvinar metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tellus justo, ornare vitae placerat et, lacinia feugiat massa. Ut vel sem quam. Quisque felis urna, aliquam nec vestibulum sed, dictum vel nunc. Aliquam vel tristique nibh. Sed porta erat vitae urna malesuada dapibus. Maecenas lorem nibh, vulputate a ex at, congue pellentesque nisi. Nunc pellentesque dapibus turpis sit amet tincidunt. Integer vel ligula id mi ornare lobortis. Aliquam nec tincidunt turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam vulputate tortor vitae quam ullamcorper consequat. Pellentesque venenatis varius mi non iaculis.",
+    "area": 34,
+    "lng": -48.4204317,
+    "lat": -1.3470168,
+    "bedroomsQty": 3,
+    "bathroomQty": 1,
+    "rentPrice": 1234,
+    "buyPrice": 0,
+    "iptu": 300,
+    "condominiumPrice": 0,
+    "serviceRate": 32,
+    "isPetFriendly": true,
+    "furnished": false,
+    "floor": 3,
+    "carSpot": 1,
+    "seller": {
+      "name": "Yvan Brito",
+      "phone": 91983756468,
+      "email": "teste@teste.com"
+    },
+    "images": [
+      "imovel3.webp",
+      "imovel2.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "createdAt": "2022-05-09T20:00:00",
+    "type": "apartment",
+    "isRent": true,
+    "address": {
+      "streetName": "Alamêda dos Anjos",
+      "number": "46",
+      "district": "Nazaré",
+      "city": "Belém",
+      "state": "Pará",
+      "stateInitials": "PA"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tellus massa, tincidunt ut mattis eget, sollicitudin eget ipsum. In ut nibh hendrerit orci ultrices mattis eget a nisl. Etiam vitae dui lobortis, congue velit convallis, pulvinar metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tellus justo, ornare vitae placerat et, lacinia feugiat massa. Ut vel sem quam. Quisque felis urna, aliquam nec vestibulum sed, dictum vel nunc. Aliquam vel tristique nibh. Sed porta erat vitae urna malesuada dapibus. Maecenas lorem nibh, vulputate a ex at, congue pellentesque nisi. Nunc pellentesque dapibus turpis sit amet tincidunt. Integer vel ligula id mi ornare lobortis. Aliquam nec tincidunt turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam vulputate tortor vitae quam ullamcorper consequat. Pellentesque venenatis varius mi non iaculis.",
+    "area": 34,
+    "lng": -48.4207421,
+    "lat": -1.3665585,
+    "bedroomsQty": 3,
+    "bathroomQty": 1,
+    "rentPrice": 1234,
+    "buyPrice": 0,
+    "iptu": 300,
+    "condominiumPrice": 312,
+    "serviceRate": 32,
+    "isPetFriendly": true,
+    "furnished": false,
+    "floor": 3,
+    "carSpot": 1,
+    "seller": {
+      "name": "Yvan Brito",
+      "phone": 91983756468,
+      "email": "teste@teste.com"
+    },
+    "images": [
+      "imovel3.webp",
+      "imovel2.webp"
+    ]
+  },
+  {
+    "id": 3,
+    "createdAt": "2022-05-09T20:00:00",
+    "type": "house",
+    "isRent": true,
+    "address": {
+      "streetName": "Passagem Bom Garoto",
+      "number": "93-A",
+      "district": "Nazaré",
+      "city": "Belém",
+      "state": "Pará",
+      "stateInitials": "PA"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tellus massa, tincidunt ut mattis eget, sollicitudin eget ipsum. In ut nibh hendrerit orci ultrices mattis eget a nisl. Etiam vitae dui lobortis, congue velit convallis, pulvinar metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tellus justo, ornare vitae placerat et, lacinia feugiat massa. Ut vel sem quam. Quisque felis urna, aliquam nec vestibulum sed, dictum vel nunc. Aliquam vel tristique nibh. Sed porta erat vitae urna malesuada dapibus. Maecenas lorem nibh, vulputate a ex at, congue pellentesque nisi. Nunc pellentesque dapibus turpis sit amet tincidunt. Integer vel ligula id mi ornare lobortis. Aliquam nec tincidunt turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam vulputate tortor vitae quam ullamcorper consequat. Pellentesque venenatis varius mi non iaculis.",
+    "area": 34,
+    "lng": -48.3358202,
+    "lat": -1.3622928,
+    "bedroomsQty": 3,
+    "bathroomQty": 1,
+    "rentPrice": 1234,
+    "buyPrice": 0,
+    "iptu": 300,
+    "condominiumPrice": 0,
+    "serviceRate": 32,
+    "isPetFriendly": true,
+    "furnished": false,
+    "floor": 3,
+    "carSpot": 1,
+    "seller": {
+      "name": "Yvan Brito",
+      "phone": 91983756468,
+      "email": "teste@teste.com"
+    },
+    "images": [
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp"
+    ]
+  },
+  {
+    "id": 4,
+    "createdAt": "2022-05-09T20:00:00",
+    "type": "apartment",
+    "isRent": true,
+    "address": {
+      "streetName": "Rua dos Inocentes",
+      "number": "95",
+      "district": "Nazaré",
+      "city": "Belém",
+      "state": "Pará",
+      "stateInitials": "PA"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tellus massa, tincidunt ut mattis eget, sollicitudin eget ipsum. In ut nibh hendrerit orci ultrices mattis eget a nisl. Etiam vitae dui lobortis, congue velit convallis, pulvinar metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tellus justo, ornare vitae placerat et, lacinia feugiat massa. Ut vel sem quam. Quisque felis urna, aliquam nec vestibulum sed, dictum vel nunc. Aliquam vel tristique nibh. Sed porta erat vitae urna malesuada dapibus. Maecenas lorem nibh, vulputate a ex at, congue pellentesque nisi. Nunc pellentesque dapibus turpis sit amet tincidunt. Integer vel ligula id mi ornare lobortis. Aliquam nec tincidunt turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam vulputate tortor vitae quam ullamcorper consequat. Pellentesque venenatis varius mi non iaculis.",
+    "area": 34,
+    "lng": -34.8905276,
+    "lat": -8.0517171,
+    "bedroomsQty": 3,
+    "bathroomQty": 1,
+    "rentPrice": 1234,
+    "buyPrice": 0,
+    "iptu": 300,
+    "condominiumPrice": 312,
+    "serviceRate": 32,
+    "isPetFriendly": true,
+    "furnished": false,
+    "floor": 3,
+    "carSpot": 1,
+    "seller": {
+      "name": "Yvan Brito",
+      "phone": 91983756468,
+      "email": "teste@teste.com"
+    },
+    "images": [
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp"
+    ]
+  },
+  {
+    "id": 5,
+    "createdAt": "2022-05-09T20:00:00",
+    "type": "kitnet",
+    "isRent": true,
+    "address": {
+      "streetName": "Rua dos Inocentes",
+      "number": "948",
+      "district": "Nazaré",
+      "city": "Belém",
+      "state": "Pará",
+      "stateInitials": "PA"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tellus massa, tincidunt ut mattis eget, sollicitudin eget ipsum. In ut nibh hendrerit orci ultrices mattis eget a nisl. Etiam vitae dui lobortis, congue velit convallis, pulvinar metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tellus justo, ornare vitae placerat et, lacinia feugiat massa. Ut vel sem quam. Quisque felis urna, aliquam nec vestibulum sed, dictum vel nunc. Aliquam vel tristique nibh. Sed porta erat vitae urna malesuada dapibus. Maecenas lorem nibh, vulputate a ex at, congue pellentesque nisi. Nunc pellentesque dapibus turpis sit amet tincidunt. Integer vel ligula id mi ornare lobortis. Aliquam nec tincidunt turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam vulputate tortor vitae quam ullamcorper consequat. Pellentesque venenatis varius mi non iaculis.",
+    "area": 34,
+    "lng": -34.9227975,
+    "lat": -8.0843705,
+    "bedroomsQty": 3,
+    "bathroomQty": 1,
+    "rentPrice": 1234,
+    "buyPrice": 0,
+    "iptu": 300,
+    "condominiumPrice": 0,
+    "serviceRate": 32,
+    "isPetFriendly": true,
+    "furnished": false,
+    "floor": 3,
+    "carSpot": 1,
+    "seller": {
+      "name": "Yvan Brito",
+      "phone": 91983756468,
+      "email": "teste@teste.com"
+    },
+    "images": [
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp"
+    ]
+  },
+  {
+    "id": 6,
+    "createdAt": "2022-05-09T20:00:00",
+    "type": "condominium",
+    "isRent": true,
+    "address": {
+      "streetName": "Rua dos Inocentes",
+      "number": "948",
+      "district": "Nazaré",
+      "city": "Belém",
+      "state": "Pará",
+      "stateInitials": "PA"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tellus massa, tincidunt ut mattis eget, sollicitudin eget ipsum. In ut nibh hendrerit orci ultrices mattis eget a nisl. Etiam vitae dui lobortis, congue velit convallis, pulvinar metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tellus justo, ornare vitae placerat et, lacinia feugiat massa. Ut vel sem quam. Quisque felis urna, aliquam nec vestibulum sed, dictum vel nunc. Aliquam vel tristique nibh. Sed porta erat vitae urna malesuada dapibus. Maecenas lorem nibh, vulputate a ex at, congue pellentesque nisi. Nunc pellentesque dapibus turpis sit amet tincidunt. Integer vel ligula id mi ornare lobortis. Aliquam nec tincidunt turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam vulputate tortor vitae quam ullamcorper consequat. Pellentesque venenatis varius mi non iaculis.",
+    "area": 34,
+    "lng": -34.9967442,
+    "lat": -8.3198089,
+    "bedroomsQty": 3,
+    "bathroomQty": 1,
+    "rentPrice": 1234,
+    "buyPrice": 0,
+    "iptu": 300,
+    "condominiumPrice": 312,
+    "serviceRate": 32,
+    "isPetFriendly": true,
+    "furnished": false,
+    "floor": 3,
+    "carSpot": 1,
+    "seller": {
+      "name": "Yvan Brito",
+      "phone": 91983756468,
+      "email": "teste@teste.com"
+    },
+    "images": [
+      "imovel3.webp",
+      "imovel2.webp",
+      "imovel3.webp",
+      "imovel2.webp"
+    ]
+  }
+]
